@@ -1,2 +1,2 @@
 # h
-USER@localhost:/repos/USER.git
+je369@localhost:/repos/je369.git
